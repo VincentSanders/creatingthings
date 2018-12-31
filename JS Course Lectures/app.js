@@ -17,7 +17,6 @@ class Customer extends Person{
     }
 
     static getMembershipCost(){
-        return 500; 
         return 500;
     }
 }
